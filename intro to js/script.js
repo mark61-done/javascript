@@ -148,11 +148,11 @@
 // let person = {name: "marko", age:20, city:"nairobi"}
 // for(let key in person){
 //     console.log(key + ":" + person[key])
+// // }
+// let fruits =["banana", "apple", "avocado"]
+// for(let fruit of fruits){
+//     console.log(fruit)
 // }
-let fruits =["banana", "apple", "avocado"]
-for(let fruit of fruits){
-    console.log(fruit)
-}
 // function greet(){
 //     console.log("hello world")
 // }
